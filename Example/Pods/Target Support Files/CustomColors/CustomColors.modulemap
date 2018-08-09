@@ -1,0 +1,6 @@
+framework module CustomColors {
+  umbrella header "CustomColors-umbrella.h"
+
+  export *
+  module * { export * }
+}
