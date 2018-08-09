@@ -151,7 +151,7 @@
 		9A94D5C65E41BCDE1BA91E52606CAE73 /* CustomColors */ = {
 			isa = PBXGroup;
 			children = (
-				ED300F0C211C19C000639449 /* CustomColors */,
+				ED300F0F211C1A1900639449 /* CustomColors.swift */,
 				B0292322079D70516A545BC0CF252A07 /* Pod */,
 				F090637EEE062460FF4FD865513761FB /* Support Files */,
 			);
@@ -211,31 +211,6 @@
 				5E0D919E635D23B70123790B8308F8EF /* iOS */,
 			);
 			name = Frameworks;
-			sourceTree = "<group>";
-		};
-		ED300F0C211C19C000639449 /* CustomColors */ = {
-			isa = PBXGroup;
-			children = (
-				ED300F0D211C19CD00639449 /* Classes */,
-			);
-			name = CustomColors;
-			path = "New Group";
-			sourceTree = "<group>";
-		};
-		ED300F0D211C19CD00639449 /* Classes */ = {
-			isa = PBXGroup;
-			children = (
-				ED300F0E211C19EE00639449 /* CustomColor */,
-			);
-			path = Classes;
-			sourceTree = "<group>";
-		};
-		ED300F0E211C19EE00639449 /* CustomColor */ = {
-			isa = PBXGroup;
-			children = (
-				ED300F0F211C1A1900639449 /* CustomColors.swift */,
-			);
-			path = CustomColor;
 			sourceTree = "<group>";
 		};
 		F090637EEE062460FF4FD865513761FB /* Support Files */ = {

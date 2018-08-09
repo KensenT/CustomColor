@@ -30,7 +30,7 @@ TODO: A collection of custom colors template.
 
   s.ios.deployment_target = '8.0'
 
-  s.source_files = 'CustomColors/Classes/**/*'
+  s.source_files = 'CustomColors.swift'
   
   # s.resource_bundles = {
   #   'CustomColors' => ['CustomColors/Assets/*.png']
