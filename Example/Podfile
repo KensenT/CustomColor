@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'CustomColors_Example' do
+  pod 'CustomColors', :path => '../'
+
+  target 'CustomColors_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
